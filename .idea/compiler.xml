@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="applicationservice" />
+        <module name="feignclient" />
+        <module name="ribbonclient" />
+        <module name="rigisterserver" />
+        <module name="zuulservice" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="applicationservice" target="1.8" />
+      <module name="feignclient" target="1.8" />
+      <module name="ribbonclient" target="1.8" />
+      <module name="rigisterserver" target="1.8" />
+      <module name="tmsprintcloudparent" target="1.5" />
+      <module name="zuulservice" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

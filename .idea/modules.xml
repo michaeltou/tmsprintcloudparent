@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/applicationservice/applicationservice.iml" filepath="$PROJECT_DIR$/applicationservice/applicationservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feignclient/feignclient.iml" filepath="$PROJECT_DIR$/feignclient/feignclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbonclient/ribbonclient.iml" filepath="$PROJECT_DIR$/ribbonclient/ribbonclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rigisterserver/rigisterserver.iml" filepath="$PROJECT_DIR$/rigisterserver/rigisterserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tmsprintcloudparent.iml" filepath="$PROJECT_DIR$/tmsprintcloudparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuulservice/zuulservice.iml" filepath="$PROJECT_DIR$/zuulservice/zuulservice.iml" />
+    </modules>
+  </component>
+</project>
